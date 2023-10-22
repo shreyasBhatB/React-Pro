@@ -4,7 +4,7 @@ function Contact() {
   return (
     <div>
       <h2>Contact</h2>
-      {/* Your Contact information or form goes here */}
+      <p>me@gmail.com</p>
     </div>
   );
 }
